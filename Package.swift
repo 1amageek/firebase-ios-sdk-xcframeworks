@@ -202,7 +202,7 @@ let package = Package(
         "_BoringSSL-GRPC",
         "_FirebaseCoreExtension",
         "_FirebaseFirestore",
-        "_FirebaseFirestoreSwift",
+//        "_FirebaseFirestoreSwift",
         "_FirebaseSharedSwift",
         "_abseil",
         "_gRPC-C++",
